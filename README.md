@@ -39,8 +39,8 @@ gtkwave full_adder.vcd
 
 👨‍💻 Auteurs
 👤 Kambale Maruba Exaucé (1ICE-EN)
-👤 Nkishi (1ICE-IN)
-👤 Bualuti (1ICE-EE)
+👤 Nkishi Djenga Gédéon-Hervé (1ICE-IN)
+👤 Bualuti Éphraim (1ICE-EE)
 
 
 📄 Licence
